@@ -1,0 +1,153 @@
+Using Praat version 6.2
+Saving to parent folder /Users/yiminglu/Desktop/manipulated
+###############################################
+SOUND SELECTION INFO
+User selected DT_Deer as the voiced endpoint
+User selected DT_Tier as the voiceless endpoint
+
+###############################################
+###############################################
+VOT CONTINUUM INFO
+
+###############################################
+User selections
+Selected an aspiration segment from DT_Tier sound
+   with onset landmark at 0.01896875
+   and offset landmark at 0.08184418402777777
+
+###############################################
+Marked 0.09363988095238095 as the vowel onset in the DT_Deer sound
+
+
+###############################################
+VOT steps 
+VOT_1	-0.01 
+VOT_2	0 
+VOT_3	0.01 
+VOT_4	0.02 
+VOT_5	0.03 
+VOT_6	0.04 
+VOT_7	0.05 
+
+Added 0.05 silence at the onset of each sound
+Added 3 ms aspiration at the end for blending into the vowel
+
+Vowel-cutback information:
+For each 1 ms of VOT, 0.65 ms of vowel cutback
+(0.65 vowel-cutback ratio)
+Maximum vowel cutback actually used: 0.033
+Maximum vowel cutback duration permitted: 0.7 seconds
+
+
+###############################################
+Original sound F0 onset: 'f0_onset:1'
+F0 continuum minimum:  220.0
+F0 continuum maximum:  300.0
+Modification declared as explict declaration of F0 in absolute_Hz
+
+###############################################
+F0 steps: 
+F0_1	220 
+F0_2	230 
+F0_3	240 
+F0_4	250 
+F0_5	260 
+F0_6	270 
+F0_7	280 
+F0_8	290 
+F0_9	300 
+
+Pitch analysis between 65 and 275 Hz
+
+###############################################
+Aspiration intensities (dB)
+aspiration_int_1	42.6 
+aspiration_int_2	43.6 
+aspiration_int_3	44.6 
+aspiration_int_4	45.6 
+aspiration_int_5	46.6 
+aspiration_int_6	47.6 
+aspiration_int_7	48.6 
+
+Aspiration change (dB)
+aspiration_int_change_1	-6 
+aspiration_int_change_2	-5 
+aspiration_int_change_3	-4 
+aspiration_int_change_4	-3 
+aspiration_int_change_5	-2 
+aspiration_int_change_6	-1 
+aspiration_int_change_7	0 
+
+
+###############################################
+Used 0.006 as the VOT cross-fade duration 
+
+###############################################
+Output sounds maintained natural intensity-VOT relationship
+(not equalized for RMS)
+
+###############################################
+Vowel onset intensitying ramping
+Step 1 half-ramped vowel onset intensity over the first 0 s
+Step 1 half-ramped vowel onset intensity over the first 0 s
+Step 1 half-ramped vowel onset intensity over the first 0 s
+Step 1 half-ramped vowel onset intensity over the first 0 s
+Step 1 half-ramped vowel onset intensity over the first 0 s
+Step 1 half-ramped vowel onset intensity over the first 0 s
+Step 1 half-ramped vowel onset intensity over the first 0 s
+Step 1 half-ramped vowel onset intensity over the first 0 s
+Step 1 half-ramped vowel onset intensity over the first 0 s
+Step 2 half-ramped vowel onset intensity over the first 0 s
+Step 2 half-ramped vowel onset intensity over the first 0 s
+Step 2 half-ramped vowel onset intensity over the first 0 s
+Step 2 half-ramped vowel onset intensity over the first 0 s
+Step 2 half-ramped vowel onset intensity over the first 0 s
+Step 2 half-ramped vowel onset intensity over the first 0 s
+Step 2 half-ramped vowel onset intensity over the first 0 s
+Step 2 half-ramped vowel onset intensity over the first 0 s
+Step 2 half-ramped vowel onset intensity over the first 0 s
+Step 3 half-ramped vowel onset intensity over the first 0.0007 s
+Step 3 half-ramped vowel onset intensity over the first 0.0007 s
+Step 3 half-ramped vowel onset intensity over the first 0.0007 s
+Step 3 half-ramped vowel onset intensity over the first 0.0007 s
+Step 3 half-ramped vowel onset intensity over the first 0.0007 s
+Step 3 half-ramped vowel onset intensity over the first 0.0007 s
+Step 3 half-ramped vowel onset intensity over the first 0.0007 s
+Step 3 half-ramped vowel onset intensity over the first 0.0007 s
+Step 3 half-ramped vowel onset intensity over the first 0.0007 s
+Step 4 half-ramped vowel onset intensity over the first 0.004 s
+Step 4 half-ramped vowel onset intensity over the first 0.004 s
+Step 4 half-ramped vowel onset intensity over the first 0.004 s
+Step 4 half-ramped vowel onset intensity over the first 0.004 s
+Step 4 half-ramped vowel onset intensity over the first 0.004 s
+Step 4 half-ramped vowel onset intensity over the first 0.004 s
+Step 4 half-ramped vowel onset intensity over the first 0.004 s
+Step 4 half-ramped vowel onset intensity over the first 0.004 s
+Step 4 half-ramped vowel onset intensity over the first 0.004 s
+Step 5 half-ramped vowel onset intensity over the first 0.007 s
+Step 5 half-ramped vowel onset intensity over the first 0.007 s
+Step 5 half-ramped vowel onset intensity over the first 0.007 s
+Step 5 half-ramped vowel onset intensity over the first 0.007 s
+Step 5 half-ramped vowel onset intensity over the first 0.007 s
+Step 5 half-ramped vowel onset intensity over the first 0.007 s
+Step 5 half-ramped vowel onset intensity over the first 0.007 s
+Step 5 half-ramped vowel onset intensity over the first 0.007 s
+Step 5 half-ramped vowel onset intensity over the first 0.007 s
+Step 6 half-ramped vowel onset intensity over the first 0.010 s
+Step 6 half-ramped vowel onset intensity over the first 0.010 s
+Step 6 half-ramped vowel onset intensity over the first 0.010 s
+Step 6 half-ramped vowel onset intensity over the first 0.010 s
+Step 6 half-ramped vowel onset intensity over the first 0.010 s
+Step 6 half-ramped vowel onset intensity over the first 0.010 s
+Step 6 half-ramped vowel onset intensity over the first 0.010 s
+Step 6 half-ramped vowel onset intensity over the first 0.010 s
+Step 6 half-ramped vowel onset intensity over the first 0.010 s
+Step 7 half-ramped vowel onset intensity over the first 0.014 s
+Step 7 half-ramped vowel onset intensity over the first 0.014 s
+Step 7 half-ramped vowel onset intensity over the first 0.014 s
+Step 7 half-ramped vowel onset intensity over the first 0.014 s
+Step 7 half-ramped vowel onset intensity over the first 0.014 s
+Step 7 half-ramped vowel onset intensity over the first 0.014 s
+Step 7 half-ramped vowel onset intensity over the first 0.014 s
+Step 7 half-ramped vowel onset intensity over the first 0.014 s
+Step 7 half-ramped vowel onset intensity over the first 0.014 s
